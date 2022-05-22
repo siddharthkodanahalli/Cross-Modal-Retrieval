@@ -1,1 +1,3 @@
-step 2 code
+In this phase of the project, we try to implement non-linear representation learning using Deep Canonocal correlation Analysis. DCCA computes representations of two views by passing them through multiple stacked layers of nonlinear transformation. The DCCA model is different from CCA because of the implementation of hidden layers.
+
+We have used two different loss function for the DCCA models. They are: Mean Square Error (MSE) loss and Triplet Loss. The above ipynb files contain traditional DCCA (MSE) and DCCA with triplet loss models on R1M Dataset. Evaluation metrics are Median Rank and Recall at top 1, 5 and 10.
