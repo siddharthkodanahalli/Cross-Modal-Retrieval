@@ -1,1 +1,3 @@
-Step 3 code
+In this step, we have explored transformers for cross modal retrieval. We first implement the work published by authors in the paper 'Revamping cross-modal recipe retrieval with hierarchical transformers and self-supervised learning'. Next, we come up with a different architecture to suit our main aim of this step of the project i.e. capture cross modal attention of two views using transformer based models. The below image displays our architecture for the final step of this project. The code for this step is included in the above sub-directories.
+
+![image](https://user-images.githubusercontent.com/78036956/169676754-68e408ae-8434-4f7b-a937-c0f4a78bd1e5.png
